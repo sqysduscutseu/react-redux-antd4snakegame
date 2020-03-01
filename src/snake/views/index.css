@@ -1,0 +1,51 @@
+.snake-unit{
+    background-color: cornflowerblue;
+    width: 8px;
+    height: 8px;
+    border: brown solid 1px;
+    position: absolute;
+}
+.snake-wrap{
+    position: relative;
+}
+
+.rat-wrap{
+    position: relative;
+}
+
+.rat{
+    /* background-color: rgb(212, 71, 165); */
+    width: 8px;
+    height: 8px;
+    border: rgb(37, 39, 170) solid 1px;
+    position: absolute;
+}
+
+.map-wrap{
+    position: relative;
+}
+
+.map{
+    background-color: rgb(233, 224, 224);
+    margin: 10px auto;
+    width: 610px;
+    height: 610px;
+    border: rgb(112, 109, 109) double 5px;
+}
+
+.displayPanel-wrap{
+    margin: 0 auto;
+}
+
+.displayPanel-wrap .btn-lay{
+    margin: 20px auto;
+    padding: 0 0 0 50px;
+}
+
+.displayPanel-wrap .radio-lay{
+    margin: 20px auto;
+}
+
+.displayPanel-wrap .score-lay{
+    margin: 10px auto;
+}
