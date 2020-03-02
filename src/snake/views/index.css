@@ -42,6 +42,11 @@
     padding: 0 0 0 50px;
 }
 
+.displayPanel-wrap .btn-lay.ant-col-xl-3{
+    margin: 20px auto;
+    padding: 0 0 0 70px;
+}
+
 .displayPanel-wrap .radio-lay{
     margin: 20px auto;
 }
